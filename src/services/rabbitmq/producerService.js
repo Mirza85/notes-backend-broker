@@ -16,4 +16,6 @@ const ProducerService = {
         }, 1000)
 
     }
-}
+};
+
+module.exports = ProducerService;
